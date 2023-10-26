@@ -1,0 +1,297 @@
+@media(max-width:992px){
+    .header-contact {
+        padding: 0;
+    }
+    .contact {
+        align-items: flex-start;
+    }
+    .contact-icon {
+        font-size: 16px;
+    }
+    .contact-details h6 {
+        font-size: 14px;
+    }
+    .contact-details p {
+        font-size: 10px;
+    }
+}
+
+@media(max-width:768px){
+    .logo {
+        width: 200px;
+        margin: auto;
+        margin-bottom: 18px;
+    }
+    .contact-icon {
+        font-size: 20px;
+    }
+    .contact-details h6 {
+        font-size: 16px;
+    }
+    .contact-details p {
+        font-size: 13px;
+    }
+    .banner-wrapper {
+        min-height: 300px;
+    }
+    .banner-info{
+        margin-top: 30px;
+    }
+    .banner-info h3 {
+        font-size: 25px;
+    }
+    .banner-info h1 {
+        font-size: 33px;
+    }
+    .banner-info p {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .learn-btn {
+        font-size: 13px;
+    }
+    .book-btn {
+        font-size: 13px;
+    }
+    .banner-img {
+        right: 0%;
+        width: 200px;
+    }
+    .banner-info-2{
+        margin-top: 30px;
+    }
+    .banner-info-2 h3 {
+        font-size: 25px;
+        margin-bottom: -28px;
+    }
+    .banner-info-2 h1 {
+        font-size: 33px;
+    }
+    .banner-info-2 p {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .banner-img-2 {
+        right: 0%;
+        width: 200px;
+    }
+    .feature-heading {
+        text-align: center;
+    }
+    .feature-img img{
+        display: none;
+    }
+    .doctor-social {
+        top: 25%;
+    }
+    .service h3 {
+        font-size: 15px;
+    }
+    .service a {
+        font-size: 12px;
+    }
+    .price-box-info p {
+        font-size: 13px;
+        padding: 0px 165px;
+        line-height: 24px;
+    }
+    .sign-btn {
+        padding: 10px 25px;
+        font-size: 14px;
+    }
+    .heading h3 {
+        font-size: 25px;
+    }
+    .heading p {
+        font-size: 13px;
+    }
+    .service {
+        text-align: center;
+    }
+    .service-icon {
+        display: block;
+        height: 50px;
+        margin: auto;
+    }
+    .social {
+        justify-content: space-evenly;
+    }
+    footer p {
+        font-size: 13px;
+    }
+}
+
+
+
+
+@media(max-width:576px){
+    .logo {
+        width: 150px;
+        margin: auto;
+    }
+    .header-contact {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    .contact {
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+    .contact-icon {
+        font-size: 18px;
+    }
+    .contact-details h6 {
+        font-size: 16px;
+    }
+    .contact-details p {
+        font-size: 12px;
+    }
+    .banner-wrapper {
+        min-height: 77vh;
+    }
+    .banner-info{
+        text-align: center;
+        margin-top: 135px;
+    }
+    .banner-info h3 {
+        font-size: 18px;
+    }
+    .banner-info h1 {
+        font-size: 23px;
+        padding: 4px 4px;
+    }
+    .banner-info p {
+        margin-bottom: 22px;
+        font-size: 14px;
+    }
+    .banner-info-2{
+        text-align: center;
+        margin-top: 135px;
+    }
+    .banner-info-2 h3 {
+        font-size: 18px;
+        margin-bottom: -23px;
+    }
+    .banner-info-2 h1 {
+        font-size: 23px;
+        padding: 4px 4px;
+    }
+    .banner-info-2 p {
+        margin-bottom: 22px;
+        font-size: 14px;
+    }
+    .learn-btn {
+        font-size: 13px;
+    }
+    .book-btn {
+        font-size: 13px;
+    }
+    .banner-img {
+        top: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: -2;
+        width: 150px;
+    }
+    .banner-img-2{
+        top: 5%;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: -2;
+        width: 100px;
+    }
+    .banner-carousel .owl-nav .owl-prev span {
+        height: 20px;
+        width: 14px;
+        line-height: 16px;
+    }
+    .banner-carousel .owl-nav .owl-next span {
+        height: 20px;
+        width: 14px;
+        line-height: 16px;
+    }
+    .feature-section {
+        padding: 35px 0;
+    }
+    .feature-heading {
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .feature-heading h4 {
+        font-weight: 500;
+        margin-bottom: 4px;
+        font-size: 20px;
+    }
+    .feature-heading p {
+        font-size: 11px;
+    }
+    .feature {
+        padding: 0 30px;
+        text-align: center;
+    }
+    .f-icon {
+        width: 26px;
+        margin: auto;
+        margin-bottom: 7px;
+    }
+    .feature-img{
+        display: none;
+    }
+    .heading h3 {
+        font-size: 29px;
+    }
+    .heading p {
+        font-size: 13px;
+    }
+    .price-box {
+        text-align: center;
+        border: 5px solid #fff;
+        background: #f9f9f9;
+        margin-bottom: 10px;
+    }
+    .price h2 {
+        font-size: 35px;
+    }
+    .price-box-info p {
+        font-size: 13px;
+        padding: 0px 58px;
+    }
+    .sign-btn {
+        padding: 10px 25px;
+        font-size: 14px;
+    }
+    .client-section {
+        padding: 24px 0 0px 0;
+    }
+    .client-heading h3 {
+        font-size: 25px;
+    }
+    .client-heading p {
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .left-f a{
+        display: block;
+        width: 150px;
+        margin: auto;
+    }
+    .address {
+        justify-content: center;
+    }
+    .post-col h2 {
+        color: #fff;
+        margin: 15px 0;
+        text-align: center;
+    }
+    .right-f h2 {
+        text-align: center;
+    }
+    .right-f h6 {
+        margin: 15px 0 20px 0;
+        font-size: 13px;
+    }
+    footer p {
+        font-size: 10px;
+    }
+ 
+}
